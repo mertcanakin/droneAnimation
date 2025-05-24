@@ -15,7 +15,12 @@ A script to animate a quadcopter from flight log
    - Execute the script via Matlab.  
    - Select your `.mat` log file when prompted.  
 
-![Demo GIF](quadcopter_animation.gif)
+
+
+<div align="center">
+  <img src="quadcopter_animation.gif" alt="Demo GIF showing script usage">
+</div>  
+
 
 ## Notes  
 - You can change log structure in "Extract data" section
