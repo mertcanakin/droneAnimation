@@ -6,7 +6,7 @@ This MATLAB script provides a flexible and modular way to create animations of m
 
 - **Multi-quadcopter Visualization**: Can animate multiple quadcopters simultaneously
 - **GIF Export**: Automatically saves the animation as a GIF file
-- **3D Visualization**: Full 3D rendering with proper perspective and grid
+- **3D Visualization**
 
 ## Usage
 
@@ -62,7 +62,11 @@ end
 ```
 ## Example Output
 
-The script generates a GIF animation (`quadcopter_anim.gif`) showing:
+The script generates a GIF animation showing:
 - Each quadcopter's movement in 3D space
 - Trailing paths showing the flight history
 - Desired trajectory paths
+- 
+<div align="center">
+  <img src="quadcopter_anim.gif" alt="Demo GIF showing script usage">
+</div>  
